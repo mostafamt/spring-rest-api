@@ -12,3 +12,4 @@ You can still use Spring Boot version 2.6.x by changing the version in your pom.
 	</parent>
 ```
 You can also see how this is done without `WebSecurityConfigurerAdapter` from the Baeldung blog https://www.baeldung.com/spring-deprecated-websecurityconfigureradapter
+# spring-rest-api
